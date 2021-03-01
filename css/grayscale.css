@@ -87,7 +87,13 @@ a:hover, a:active, a:focus {
 }
 
 .inverse {
-  background-color: #404040;
+  background-color: #5A244D;
+  color: #f8f9fa;
+  text-shadow: none;
+}
+
+.inverse-light {
+  background-color: #FEF4FC;
   color: #f8f9fa;
   text-shadow: none;
 }

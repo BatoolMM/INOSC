@@ -15,7 +15,7 @@ h1 {
 
 h2 {
   font-family: 'Fraunces', serif;
-  font-weight: 200;
+  font-weight: 700;
   color: #212529;
 }
 
@@ -27,17 +27,27 @@ h3 {
   font-size: 1.3em !important;
 }
 
-h5, h6 {
+h5 {
   font-family: 'Commissioner', sans-serif;
   font-weight: 400;
-  color: #003366;
+  color: #212529;
+  font-size: 1.6em;
+
+}
+
+h6 {
+  font-family: 'Commissioner', sans-serif;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 1.6em
 }
 
 h4 {
   font-family: 'Commissioner', sans-serif;
-  font-weight: 400;
+  font-weight: 700;
   color: #121417;
 }
+
 
 .remark-code,
 .remark-inline-code{ 
@@ -48,4 +58,11 @@ h4 {
   body {
     font-family: 'Commissioner', sans-serif;
     font-weight: 300;
+}
+
+.tr{
+  font-family: 'Commissioner', sans-serif;
+  font-weight: 400;
+  color: #212529;
+  font-size: 1.6em;
 }

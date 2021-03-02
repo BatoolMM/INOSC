@@ -52,10 +52,10 @@ class:  middle, inverse
 ###### A little about me !
 
 - A computational biologist affiliated with [the University of Liverpool](https://www.liverpool.ac.uk/), UK.
+- Member of several Open Science Communities such as the _turing way_ in [the Alan Turing Institutes](https://www.turing.ac.uk/).
+- I'm also involved with the [Carpentries](https://carpentries.org/) and I recently joined Code Review Community Working Group (CRC) which aims to build consensus and awareness around good practice in code review.
 - Founder of [RLadies Chapter in Saudi Arabia (Dammam)](https://www.meetup.com/rladies-dammam/).
 - A member in both the [R Weekly](https://rweekly.org/about) team and MiR accessibility committee.
-- Member of several Open Science Communities such as the _turing way_ in [the Alan Turing Institutes](https://www.turing.ac.uk/).
-- I joined recently Code Review Community Working Group (CRC) which aims to build consensus and awareness around good practice in code review.
 
 
 ---

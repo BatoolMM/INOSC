@@ -189,6 +189,7 @@ class: center, middle, inverse
 ###### - We contributed to the Open Education Week ["The Adoption of Open Science in The Middle East"](https://open-science-week.netlify.app/#1)
 
 <img src="figs/oewtalk.jpg" width=40%>
+<img src="figs/twitter2.jpg" width=43%>
 
 .left[.footnote[All of our work is citable and available in [Zenodo](https://zenodo.org/communities/1231231664/?page=1&size=20) and GitHub]]
 
@@ -227,4 +228,8 @@ class: middle, inverse, center
 
 ###### Thank you so much 
 ###### We are very welcoming to any contribution!
+
+<img src="figs/communication.JPG" width=25%>
+
+.left[.footnote[The Turing Way project illustration by Scriberia. Zenodo. http://doi.org/10.5281/zenodo.3332807]]
 

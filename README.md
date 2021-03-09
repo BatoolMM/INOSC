@@ -1,2 +1,2 @@
-# KAUST-Open-Science
-An introduction to the Open Science Community presented to KAUST in the 2nd of March 2021
+# INOSC Meeting
+A short intro to the Open Science Community in Saudi Arabia presented in small INOSC meeting.

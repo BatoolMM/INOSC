@@ -188,9 +188,14 @@ class: middle, inverse
 
 ###### - We planning to produce a newsletter, arrange for [ReproHack](https://reprohack.github.io/reprohack-hq/) and a mentorship programme in the summer. We are also in discussion with the legal team to register the community.
 
-###### - I'm delivering a workshop as a part of [Repro4Everyone](https://repro4everyone.org/) and helping with collaborative workshop runs by the turing way in [Software Sustainability Institute (SSI)](https://software.ac.uk/). 
+###### - Most of our activities are published in _the Turing Way_ newsletter.
+
+
+###### - Translation, I'm also delivering a workshop as a part of [Repro4Everyone](https://repro4everyone.org/) and helping with collaborative workshop runs by the turing way in [Software Sustainability Institute (SSI)](https://software.ac.uk/). 
 
 ---
+
+
 class: middle, inverse, center
 
 ###### Thank you so much 

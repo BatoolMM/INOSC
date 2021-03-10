@@ -52,7 +52,7 @@ class:  middle, inverse
 ###### A little about me !
 
 - A computational biologist affiliated with [the University of Liverpool](https://www.liverpool.ac.uk/), UK.
-- Member of several Open Science Communities such as the _turing way_ in [the Alan Turing Institutes](https://www.turing.ac.uk/).
+- Member of several Open Science Communities such as the _turing way_ and Reproducibility for Everyone.
 - I'm also involved with the [Carpentries](https://carpentries.org/). Currently, designing a new lesson in the Carpentries-incubator for scRNA-seq.
 - Founder of [RLadies Chapter in Saudi Arabia (Dammam)](https://www.meetup.com/rladies-dammam/).
 - A member in both the [R Weekly](https://rweekly.org/about) team and MiR accessibility committee.

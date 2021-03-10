@@ -53,12 +53,13 @@ class:  middle, inverse
 
 - A computational biologist affiliated with [the University of Liverpool](https://www.liverpool.ac.uk/), UK.
 - Member of several Open Science Communities such as the _turing way_ in [the Alan Turing Institutes](https://www.turing.ac.uk/).
-- I'm also involved with the [Carpentries](https://carpentries.org/)
+- I'm also involved with the [Carpentries](https://carpentries.org/). Currently, designing a new lesson in the Carpentries-incubator for scRNA-seq.
 - Founder of [RLadies Chapter in Saudi Arabia (Dammam)](https://www.meetup.com/rladies-dammam/).
 - A member in both the [R Weekly](https://rweekly.org/about) team and MiR accessibility committee.
 
 
 ---
+
 
 class: center, middle, inverse
 ###### In 2021, We started an Open Science Community in Saudi Arabia
@@ -81,6 +82,54 @@ class: center, middle, inverse
 ###### Led by Batool Almarzouq, Anelda Van der Walt and Paula Moraga
 
 ---
+class:  middle, inverse
+
+
+###### Since Saudi Arabia is not part of mature research systems, we want to build practices for open science from the ground up. The aim is that scientific communities will incorporate these principles as they grow.
+
+.left[.footnote[Everthing mentioned in this slide is taken from [Redesign open science for Asia, Africa and Latin America](https://www.nature.com/articles/d41586-020-03052-3)]]
+
+<img src="figs/school.jpg" width= 65% class="center">
+
+---
+class:  middle, inverse
+
+###### - Our communities’ needs differ from those that are part of mature research systems. So, rather than shifting and shaping established systems, scientists are endeavouring to design new ones.
+
+.left[.footnote[Everthing mentioned in this slide is taken from [Redesign open science for Asia, Africa and Latin America](https://www.nature.com/articles/d41586-020-03052-3)]]
+
+--
+
+###### - We disadvantaged by government policies that increase apparent productivity at the expense of quality.
+
+--
+
+###### - More than 80% of the world’s population live in areas where research is developing, suggesting massive untapped scientific potential. This diverse group of people would provide new ways of thinking about old problems. And global collaborations would increase each researcher’s access to resources and samples that might currently be off limits.
+
+---
+
+class:  middle, inverse
+
+###### - The goverment is pushing towards increase publication quantity to ‘catch up’ with other countries, but inadvertently encourage poor research practices. Scientists have resorted to publishing in predatory journals to boost publication count.
+
+<img src="figs/quality-vs-quantity.jpg" width= 25% class="center">
+
+
+.left[.footnote[Everthing mentioned in this slide is taken from [Redesign open science for Asia, Africa and Latin America](https://www.nature.com/articles/d41586-020-03052-3)]]
+
+---
+
+class:  middle, inverse
+
+###### - We cannot waste resources on funding untrustworthy research. Policies should therefore be designed to improve transparency, relevance and scientific rigour, rather than just to increase output.
+
+
+.left[.footnote[Everthing mentioned in this slide is taken from [Redesign open science for Asia, Africa and Latin America](https://www.nature.com/articles/d41586-020-03052-3)]]
+
+<img src="figs/money.jpg" width= 50% class="center">
+
+---
+
 class: center, middle, inverse
 
 ## Examples of our activities in Feb 2021
